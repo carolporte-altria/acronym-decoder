@@ -1,7 +1,7 @@
 [
     {
-        "acronym": "TERM",
-        "definition": "Definition of the term or acronym goes here",
+        "acronym": "1RF",
+        "definition": "First Revised Forecast",
         "links": [
             {
                 "name": "1st Link",
@@ -14,8 +14,8 @@
         ]
     },
     {
-        "acronym": "ACRONYM",
-        "definition": "Definition of the term or acronym goes here",
+        "acronym": "2RF",
+        "definition": "Second Revised Forecast (Reported to Wall Street)",
         "links": [
             {
                 "name": "1st Link",
