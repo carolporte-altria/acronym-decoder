@@ -1,7 +1,7 @@
 [
     {
-        "acronym": "TERM",
-        "definition": "Definition of the term or acronym goes here",
+        "acronym": "1RF",
+        "definition": "First Revised Forecast",
         "links": [
             {
                 "name": "1st Link",
@@ -14,8 +14,8 @@
         ]
     },
     {
-        "acronym": "ACRONYM",
-        "definition": "Definition of the term or acronym goes here",
+        "acronym": "2RF",
+        "definition": "Second Revised Forecast (Reported to Wall Street)",
         "links": [
             {
                 "name": "1st Link",
@@ -26,5 +26,1909 @@
                 "link": "https://www.google.com"
             }
         ]
-    }
+    },
+{
+        "acronym": "3RF",
+        "definition": "Third Revised Forecast",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "ACS",
+        "definition": "Adult Cigar Smoker",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "AD",
+        "definition": "Adult Dipper",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "ADLA+",
+        "definition": "Adult Dipper Legal Age Plus (18+)",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "AGDC",
+        "definition": "Altria Group Distribution Company",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "ALCS",
+        "definition": "Altria Client Services (Legal, Finance, Compliance, CMI, etc.)",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "AOF",
+        "definition": "Adult Only Facility",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "AOM",
+        "definition": "All Other Manufacturers",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "AS",
+        "definition": "Adult Smoker",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "ATC",
+        "definition": "Adult Tobacco Consumer",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "ATC21+",
+        "definition": "Adult Tobacco Consumers 21 years old and older",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "ATCD",
+        "definition": "Adult Tobacco Consumer Database",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "ATP",
+        "definition": "Awareness Trial Purchase",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "AV",
+        "definition": "Ad Valorem (Taxation based on Price)",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "B1G1F",
+        "definition": "Buy 1 Get 1 Free",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "B1T1",
+        "definition": "Buy 1 Try 1",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "B2S$",
+        "definition": "Buy 2 Save $1",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "BMLDS",
+        "definition": "Brand Management Leadership Development System",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "BOM",
+        "definition": "Bill of Materials",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "Bounceback",
+        "definition": "A mailed out prize during a promotion",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "BP",
+        "definition": "Bonus Product",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "CATTS",
+        "definition": "Continuous Adult Tobacco Tracking Study",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "CMI",
+        "definition": "Consumer Marketplace Insights",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "CPG",
+        "definition": "Consumer Packaged Goods",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "CPP",
+        "definition": "Choice Price Promotion or Cost Per Piece",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "CPW",
+        "definition": "Cans per Week",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "CTM",
+        "definition": "Click to Mail (coupon claimed online and set to home as a direct mail piece)",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "CWP",
+        "definition": "Collaborative Work Process",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "CYTP",
+        "definition": "Current Year to Date",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "DM",
+        "definition": "Direct Mail",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "DMS",
+        "definition": "Digital Marketing Services",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "DOI",
+        "definition": "Double Opt In",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "EDLP",
+        "definition": "Every Day Low Price ",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "EEFI",
+        "definition": "Extended Equity Frame Insert",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "EFI",
+        "definition": "Equity Frame Insert",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "ELT",
+        "definition": "Executive Leadership Team",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "EPS",
+        "definition": "Earnings Per Share",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "FDA",
+        "definition": "Food and Drug Administration",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "FDD",
+        "definition": "File Delivery Date",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "FET",
+        "definition": "Federal Excise Tax",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "FIM",
+        "definition": "Flavor Interest Model",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "FPO",
+        "definition": "For Presentation/Proof Only (Not final art)",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "FRD",
+        "definition": "File Release Date",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "FSF",
+        "definition": "Field Sales Force",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "FTB",
+        "definition": "Flip-Top Box",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "FTL",
+        "definition": "Future Tobacco Landscape (study conducted by CMI)",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "GAL",
+        "definition": "Global Address List",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "GMR",
+        "definition": "Experiential Marketing Agency named after founder (Gary M. Reynolds)",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "H1",
+        "definition": "First Half",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "1H",
+        "definition": "First Half",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "H2",
+        "definition": "Second Half",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "2H",
+        "definition": "Second Half",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "IPP",
+        "definition": "Introductory Price Promotion",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "IS",
+        "definition": "Information Services",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "ISCG",
+        "definition": "In-Store Connection Guide",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "JMC-RT",
+        "definition": "JMC Real-Time Database",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "LA+",
+        "definition": "Legal Age and older",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "LBCo",
+        "definition": "Leo Burnett Company",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "LE",
+        "definition": "Latest Estimate",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "LTM",
+        "definition": "Leadership Team Meeting",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "MFP",
+        "definition": "Manufacturer Funded Promotion",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "MLP",
+        "definition": "Marlboro Leadership Pricing",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "MLSPP",
+        "definition": "Marlboro Leadership Special Price Promotion",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "MMU",
+        "definition": "Mobile Marketing Unit",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "MNL",
+        "definition": "Marlboro Night Life",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "MOC",
+        "definition": "Multi-Outlet and Convenience",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "MRTPA",
+        "definition": "Modified Risk Tobacco Product Application",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "MST",
+        "definition": "Moist Smokeless Tobacco",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "OB",
+        "definition": "Original Budget",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "OBO",
+        "definition": "On Behalf Of",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "OCI",
+        "definition": "Operating Company Income",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "OI",
+        "definition": "Off-Invoice",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "OPB",
+        "definition": "Other Portfolio Brands",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "PBG",
+        "definition": "Portfolio Brand Group",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "PDP",
+        "definition": "Product Development Process",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "PFSweb",
+        "definition": "Priority Fulfillment Services:  Vendor that provides call center, fulfillment & e-commerce services",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "PMATCD",
+        "definition": "Philip Morris Adult Tobacco Consumer Database",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "PMI",
+        "definition": "Philip Morris International",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "PMTA",
+        "definition": "Pre-market Tobacco Application",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "POS",
+        "definition": "Point of Sale",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "PP",
+        "definition": "Pre-priced",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "PPP",
+        "definition": "Product Promotion Plan or Performance Partnership Process",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "PV",
+        "definition": "Price Value",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "QAGO",
+        "definition": "Quarter Ago",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "QTD",
+        "definition": "Quarter to Date",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "R1",
+        "definition": "Region 1",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "R2",
+        "definition": "Region 2",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+       "acronym": "R3",
+        "definition": "Region 3",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "R4",
+        "definition": "Region 4",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "RF",
+        "definition": "Revised Forecast",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "RL",
+        "definition": "Retail Leaders",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "Roll",
+        "definition": "5 cans of MST",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "SAM",
+        "definition": "Senior Account Manager",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "SDI",
+        "definition": "Share Development Index",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "SDOI",
+        "definition": "Subsequent Double Opt In",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "SET",
+        "definition": "State Excise Tax",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "SKU",
+        "definition": "Stock-Keeping Unit",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "SOM",
+        "definition": "Section Operations Manager",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "SOS",
+        "definition": "Share of Segment",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "SPP",
+        "definition": "Special Price Promotion",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "SPYAGO",
+        "definition": "Same Period Year Ago",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "SSD",
+        "definition": "Section Director",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "TSM",
+        "definition": "Territory Sales Manager",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "UAT",
+        "definition": "User Experience Test",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "UGC",
+        "definition": "User Generated Content",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "UM",
+        "definition": "Unit Manager",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "UPC",
+        "definition": "Universal Product Code",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "WB",
+        "definition": "Weight Based (Taxation based on weight of the product)",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "WDD",
+        "definition": "Wholesale Delivery Date",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "WE",
+        "definition": "Week Ending",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "WM",
+        "definition": "Week Moving",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "YAGO",
+        "definition": "Year Ago (same time period)",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "YTD",
+        "definition": "Year to Date",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "C",
+        "definition": "Copenhagen",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "SC",
+        "definition": "Skoal Classic",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "SX",
+        "definition": "Skoal Xtra",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "RS",
+        "definition": "Red Seal",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "G",
+        "definition": "Grizzly",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "LH",
+        "definition": "Longhorn",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "TW",
+        "definition": "Timber Wolf",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "FC",
+        "definition": "Fine Cut",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "LC",
+        "definition": "Long Cut",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "P",
+        "definition": "Pouch",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "WC",
+        "definition": "Wide Cut",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "XLC",
+        "definition": "Extra Long Cut",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "WG",
+        "definition": "Wintergreen",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "DWG",
+        "definition": "Dark Wintergreen",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "SB",
+        "definition": "Southern Blend",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "M",
+        "definition": "Mint",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "S",
+        "definition": "Straight",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "N",
+        "definition": "Natural",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "CFCN",
+        "definition": "Copehagen Fine Cut Natural",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "SCLCW",
+        "definition": "Skoal Classic Long Cut Wintergreen",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "SXPWG",
+        "definition": "Skoal Xtra Pouch Wintergreen",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "GPDWG",
+        "definition": "Grizzly Pouch Dark Wintergreen",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
+{
+        "acronym": "LHLCN",
+        "definition": "Longhorn Long Cut Natural",
+        "links": [
+            {
+                "name": "1st Link",
+                "link": "https://www.google.com"
+            },
+            {
+                "name": "2nd Link",
+                "link": "https://www.google.com"
+            }
+        ]
+    },
 ]
